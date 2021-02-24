@@ -26,7 +26,7 @@
 
 9. PGAdmin dapat diakses di port 9000
 
-## http://127.0.0.1:9000/login?next=%2F
+### http://127.0.0.1:9000/login?next=%2F
 
 10. login menggunakan username & password di env
 
@@ -42,6 +42,6 @@
 
 13. Table dapat diakses di:
 
-## “/Databases/postgres/Schemas/public/Tables”
+### “/Databases/postgres/Schemas/public/Tables”
 
 14. Query dapat dilakukan di tools -> query tool
